@@ -4,7 +4,7 @@ A lightweight, fully-functional peer-to-peer (P2P) file sharing system built in 
 
 This project demonstrates how computers can share files directly without any central server.
 
-🎯 Highlights
+Highlights
 
 Feature	Description
 
