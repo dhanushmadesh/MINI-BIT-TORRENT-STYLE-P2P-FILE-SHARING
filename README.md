@@ -1,10 +1,10 @@
-### 🌐 Mini BitTorrent-Style P2P File Sharing System
+## 🌐 Mini BitTorrent-Style P2P File Sharing System
 
 A lightweight, fully-functional peer-to-peer (P2P) file sharing system built in Python, inspired by the core ideas of the BitTorrent protocol — file chunking, hashing, piece verification, resumable downloads, multi-connection parallelism, and tracker-based peer discovery.
 
 This project demonstrates how computers can share files directly without any central server.
 
-## Highlights
+### Highlights
 
 Feature	Description
 
@@ -23,6 +23,6 @@ Feature	Description
 🔹 Simple CLI commands	Create metadata, seed, download
 
 
-## 🏗 Architecture
+### Architecture
 
 ![Mini P2P Architecture](Architecture.png)
