@@ -1,0 +1,61 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# ===============================
+# P2P Runtime Files
+# (These should NEVER be committed)
+# ===============================
+
+# Partial downloads
+*.partial
+
+# Download state
+*.state.json
+
+# Metadata generated from files
+*.p2pmeta
+
+# Working directories
+data/
+downloads/
+workdir/
+temp/
+
+# ===============================
+# Test Files
+# ===============================
+samples/
+*.txt
+*.bin
+*.dat
+
+# ===============================
+# Logs
+# ===============================
+*.log
+logs/
+
+# ===============================
+# System / Editor Files
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+
+# Windows specific
+desktop.ini

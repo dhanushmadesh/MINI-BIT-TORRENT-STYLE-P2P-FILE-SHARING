@@ -1,9 +1,0 @@
-{
-  "name": "demo.txt",
-  "size": 44,
-  "pieceLength": 1048576,
-  "pieces": [
-    "091f8e01588e9e3318594cdea96df3a156dcec333a7dab66cf8f0fecfb69474e"
-  ],
-  "infoHash": "d02723a01a927abe34fb0856e6f84e5d8b7751a36226003850efb0a82419e13f"
-}
